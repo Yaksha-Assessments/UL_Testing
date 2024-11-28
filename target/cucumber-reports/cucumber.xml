@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="179.34" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="User Signup" name="Verify user can sign up successfully" time="175.271">
+<system-out><![CDATA[
+Given I am on the homepage of Urban Ladder..................................passed
+When Hover on the profile icon..............................................passed
+And Click on the Sign Up button.............................................passed
+And Complete the signup process with email and password "Testing1!".........passed
+Then Verify My Account is visible...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
